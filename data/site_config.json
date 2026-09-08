@@ -1,0 +1,72 @@
+{
+    "owner": {
+        "fullName": "Dr. Mohamed Kamra",
+        "title": "Assistant Professor of Mechanical and Aerospace Engineering",
+        "affiliation": "UAE University",
+        "shortBio": "My research focuses on CFD, aerospace engineering, and machine learning for interface dynamics.",
+        "extendedBio": [
+            "Dr. Mohamed Kamra is an Assistant Professor of Mechanical and Aerospace Engineering at UAE University. His research focuses on computational fluid dynamics, multiphase flow, free-surface and interface dynamics, and the use of machine learning to improve numerical modeling workflows.",
+            "His work spans interface-capturing methods, volume-of-fluid modeling, sloshing and wave-impact problems, renewable energy systems, and aerospace applications. He combines physics-based simulation, experimental validation, and data-driven techniques to develop practical tools for complex engineering flows.",
+            "Alongside his research, he teaches and mentors students in mechanical and aerospace engineering, with an emphasis on connecting rigorous computational methods to real engineering design and analysis challenges."
+        ],
+        "email": "mohamed.kamra@uaeu.ac.ae",
+        "location": "Al Ain, Abu Dhabi, UAE",
+        "avatarUrl": "/assets/mohamed_kamra.jpeg"
+    },
+    "site": {
+        "title": "Dr. Mohamed Kamra",
+        "subtitle": "CFD, Aerospace, and Machine Learning",
+        "researchFocus": [
+            "CFD",
+            "Aerospace",
+            "Machine Learning"
+        ],
+        "theme": "auto",
+        "primaryColor": "#EF4444",
+        "accentColor": "#10B981"
+    },
+    "socialLinks": [
+        {
+            "label": "Google Scholar",
+            "url": "https://scholar.google.co.jp/citations?user=czED860AAAAJ&hl=en",
+            "icon": "scholar"
+        },
+        {
+            "label": "ORCID",
+            "url": "https://orcid.org/0000-0002-7284-8807",
+            "icon": "orcid"
+        },
+        {
+            "label": "ResearchGate",
+            "url": "https://www.researchgate.net/profile/Mohamed-Kamra?ev=hdr_xprf",
+            "icon": "researchgate"
+        },
+        {
+            "label": "GitHub",
+            "url": "https://github.com/mohamedmkamra",
+            "icon": "github"
+        },
+        {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/mohamed-kamra-815392135",
+            "icon": "linkedin"
+        }
+    ],
+    "quickStats": [
+        {
+            "label": "Publications",
+            "value": 57,
+            "key": "publications"
+        },
+        {
+            "label": "Citations",
+            "value": 268,
+            "key": "citations"
+        },
+        {
+            "label": "h-index",
+            "value": 10,
+            "key": "hIndex"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+  "courses": [
+    {
+      "id": "c1",
+      "code": "AERO300",
+      "name": "Aerodynamics 1",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Aerodynamic forces and moments, aerodynamic-flow classification, governing equations, elementary potential flows, airfoil aerodynamics, boundary layers, low-speed wind-tunnel testing, and introductory CFD methods.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c2",
+      "code": "AERO301",
+      "name": "Aircraft Operations and Flight Mechanics",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Fundamentals of aeronautical engineering, including aircraft aerodynamics, flight performance, aircraft operations, flight mechanics, accelerated flight, and introductory longitudinal stability.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c3",
+      "code": "AERO402",
+      "name": "Aerodynamics 2",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Advanced aerodynamics topics building on Aerodynamics 1 within the Aerospace Engineering core curriculum.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c4",
+      "code": "AERO496",
+      "name": "Aircraft Design",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Aircraft configuration and preliminary design to meet performance specifications, considering aerodynamics, stability and control, flying qualities, materials, systems engineering, and environmental factors.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c5",
+      "code": "AERO500",
+      "name": "Computational Fluid Dynamics",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Computational techniques for aerospace engineering problems, including governing equations, discretization schemes, numerical methods, mesh quality, numerical errors, boundary conditions, and ANSYS Fluent practice.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c6",
+      "code": "AERO501",
+      "name": "Selected Topics in Aerospace Engineering",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Selected topics aligned with student interests, faculty capabilities, and available resources in aerodynamics and flight mechanics.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c7",
+      "code": "AERO566",
+      "name": "High-Temperature Gas Dynamics",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Equilibrium and nonequilibrium high-temperature gas behavior, real-gas properties, radiative energy exchange, and applications to re-entry dynamics, hypersonic flows, and plasma thrusters.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c8",
+      "code": "AERO585",
+      "name": "Design and Critical Thinking in Aerospace Engineering",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Communication, design, and critical thinking in engineering, including problem identification, feasibility studies, preliminary design, technical writing, teamwork, presentations, and capstone project preparation.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c9",
+      "code": "AERO590",
+      "name": "Capstone Engineering Design Project",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Detailed design and cost estimation for selected engineering solutions, with student teams developing original engineering designs, prototypes, and final reports.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c10",
+      "code": "MECH585",
+      "name": "Design and Critical Thinking in Mechanical Engineering",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Communication, design, and critical thinking in mechanical engineering, including problem identification, feasibility studies, preliminary design, technical writing, teamwork, and formal presentations.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c11",
+      "code": "MECH590",
+      "name": "Capstone Engineering Design Project",
+      "role": "Lecturer",
+      "level": "Undergraduate",
+      "description": "Mechanical engineering capstone design course focused on detailed design, cost estimation, experimentation, modelling, simulation, data analysis, final reporting, and prototype development.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    },
+    {
+      "id": "c12",
+      "code": "MECH750",
+      "name": "Advanced Computational Fluid Dynamics",
+      "role": "Lecturer",
+      "level": "Postgraduate",
+      "description": "Advanced CFD topics covering governing equations, finite-difference and finite-volume semi-discretization, time-integration stability, full-discretization accuracy and stability, and development of CFD codes.",
+      "link": "https://uaeu.ac.ae/en/catalog/courses/"
+    }
+  ],
+  "graduationProjects": [
+    {
+      "id": "gp1",
+      "title": "Design and Control of an Airship for Long-Endurance Flight",
+      "students": [],
+      "showStudentTeamByDefault": false,
+      "semester": "Spring",
+      "year": 2023,
+      "description": "Principal applied elements: airship design, performance analysis, control-system development, evaluation, and technical reporting."
+    },
+    {
+      "id": "gp2",
+      "title": "Development of a Quadplane VTOL System for Aerial Reconnaissance and Mapping",
+      "students": [],
+      "showStudentTeamByDefault": false,
+      "semester": "Spring",
+      "year": 2024,
+      "description": "Principal applied elements: VTOL design, system integration, analysis, testing, and application-oriented evaluation."
+    },
+    {
+      "id": "gp3",
+      "title": "Design and Optimization of a Quadplane for Improved Performance",
+      "students": [],
+      "showStudentTeamByDefault": false,
+      "semester": "Spring",
+      "year": 2025,
+      "description": "Principal applied elements: aircraft configuration development, performance analysis, optimization, evaluation, and documentation."
+    },
+    {
+      "id": "gp4",
+      "title": "Desktop Closed-Circuit Wind Tunnel with Closed-Loop Wind-Speed Control and Basic Test-Section Instrumentation",
+      "students": [],
+      "showStudentTeamByDefault": false,
+      "semester": "Spring",
+      "year": 2026,
+      "description": "Principal applied elements: experimental-system design, fabrication and development, closed-loop control, instrumentation, testing, and documentation."
+    }
+  ],
+  "mentoring": [
+    {
+      "id": "m1",
+      "studentName": "Emily Williams",
+      "level": "PhD",
+      "topic": "Reinforcement Learning in Dynamic Environments",
+      "period": "2022 - Present",
+      "status": "ongoing"
+    },
+    {
+      "id": "m2",
+      "studentName": "David Smith",
+      "level": "MSc",
+      "topic": "Computer Vision for Agricultural Robotics",
+      "period": "2023 - 2024",
+      "status": "completed"
+    }
+  ],
+  "exhibitions": [
+    {
+      "id": "e1",
+      "title": "Tech Expo 2024",
+      "role": "Project Supervisor",
+      "venue": "International Exhibition Center",
+      "date": "May 2024",
+      "description": "Showcasing student projects in robotics and AI."
+    }
+  ]
+}

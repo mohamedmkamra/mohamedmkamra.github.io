@@ -1,0 +1,151 @@
+{
+    "source": "Scopus export merged with local publication records",
+    "lastUpdated": "2026-09-03",
+    "publicationsPerYear": [
+        {
+            "year": 2016,
+            "count": 1
+        },
+        {
+            "year": 2017,
+            "count": 6
+        },
+        {
+            "year": 2018,
+            "count": 3
+        },
+        {
+            "year": 2019,
+            "count": 2
+        },
+        {
+            "year": 2020,
+            "count": 3
+        },
+        {
+            "year": 2021,
+            "count": 6
+        },
+        {
+            "year": 2022,
+            "count": 2
+        },
+        {
+            "year": 2023,
+            "count": 7
+        },
+        {
+            "year": 2024,
+            "count": 9
+        },
+        {
+            "year": 2025,
+            "count": 9
+        },
+        {
+            "year": 2026,
+            "count": 8
+        }
+    ],
+    "publicationsByType": [
+        {
+            "type": "Journal",
+            "count": 30
+        },
+        {
+            "type": "Conference",
+            "count": 24
+        },
+        {
+            "type": "Preprint",
+            "count": 2
+        },
+        {
+            "type": "Thesis",
+            "count": 1
+        }
+    ],
+    "citationsByType": [
+        {
+            "type": "Journal",
+            "count": 259
+        },
+        {
+            "type": "Conference",
+            "count": 9
+        },
+        {
+            "type": "Preprint",
+            "count": 0
+        },
+        {
+            "type": "Thesis",
+            "count": 0
+        }
+    ],
+    "hIndexByYear": [
+        {
+            "year": 2020,
+            "label": "2020",
+            "value": 6
+        },
+        {
+            "year": 2021,
+            "label": "2021",
+            "value": 7
+        },
+        {
+            "year": 2022,
+            "label": "2022",
+            "value": 7
+        },
+        {
+            "year": 2023,
+            "label": "2023",
+            "value": 9
+        },
+        {
+            "year": 2024,
+            "label": "2024",
+            "value": 9
+        },
+        {
+            "year": 2025,
+            "label": "2025",
+            "value": 10
+        },
+        {
+            "year": 2026,
+            "label": "present",
+            "value": 10
+        }
+    ],
+    "topCitedPapers": [
+        {
+            "publicationId": "p36",
+            "citations": 51
+        },
+        {
+            "publicationId": "p20",
+            "citations": 36
+        },
+        {
+            "publicationId": "p38",
+            "citations": 23
+        },
+        {
+            "publicationId": "p4",
+            "citations": 16
+        },
+        {
+            "publicationId": "p43",
+            "citations": 16
+        }
+    ],
+    "i10IndexByYear": [
+        {
+            "year": 2026,
+            "value": 11
+        }
+    ]
+}

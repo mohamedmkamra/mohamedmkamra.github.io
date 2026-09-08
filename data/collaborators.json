@@ -1,0 +1,1037 @@
+[
+    {
+        "id": "collab1",
+        "name": "Dief, Tarek N.",
+        "role": "Institution",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 20,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab2",
+        "name": "Hu, Changhong",
+        "role": "International",
+        "affiliation": "Kyushu University, Research Institute for Applied Mechanics",
+        "coAuthoredDocs": 14,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "JP",
+        "institutionLogo": "/assets/kyudai_logo.png"
+    },
+    {
+        "id": "collab3",
+        "name": "Okasha, Mohamed",
+        "role": "Institution",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 10,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab4",
+        "name": "Al Nuaimi, Saeed K.",
+        "role": "Institution",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 6,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab5",
+        "name": "Elhesasy, Mohamed",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 8,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": "2023-01-01",
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab6",
+        "name": "Sueyoshi, Makoto",
+        "role": "International",
+        "affiliation": "FREGATA TECH LLC",
+        "coAuthoredDocs": 4,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "JP",
+        "institutionLogo": ""
+    },
+    {
+        "id": "collab7",
+        "name": "Al-Salami, Jabir",
+        "role": "International",
+        "affiliation": "Kyushu University, Research Institute for Applied Mechanics",
+        "coAuthoredDocs": 3,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "JP",
+        "institutionLogo": "/assets/kyudai_logo.png"
+    },
+    {
+        "id": "collab8",
+        "name": "Mohd, Nik",
+        "role": "International",
+        "affiliation": "DRB Hicom University of Automotive Malaysia",
+        "coAuthoredDocs": 3,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "MY",
+        "institutionLogo": "/assets/DHU_Official_Logo.png"
+    },
+    {
+        "id": "collab9",
+        "name": "Raafat, Ahmed",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 3,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab10",
+        "name": "Yoshida, Shigeo",
+        "role": "International",
+        "affiliation": "Kyushu University, Research Institute for Applied Mechanics",
+        "coAuthoredDocs": 4,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "JP",
+        "institutionLogo": "/assets/kyudai_logo.png"
+    },
+    {
+        "id": "collab11",
+        "name": "Ali, Ussama",
+        "role": "International",
+        "affiliation": "Khalifa University",
+        "coAuthoredDocs": 2,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/khalifa_logo.png"
+    },
+    {
+        "id": "collab12",
+        "name": "Almazrouei, Shouq",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 2,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab13",
+        "name": "Atallah, Mohammed",
+        "role": "International",
+        "affiliation": "Iowa State University",
+        "coAuthoredDocs": 2,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "US",
+        "institutionLogo": "/assets/iowa_state_logo.png"
+    },
+    {
+        "id": "collab14",
+        "name": "Khurshid, Yahya",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 4,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab15",
+        "name": "Liu, Cheng",
+        "role": "International",
+        "affiliation": "State Key Laboratory of Ocean Engineering",
+        "coAuthoredDocs": 2,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "CN",
+        "institutionLogo": "/assets/sjtu_logo.png"
+    },
+    {
+        "id": "collab16",
+        "name": "Omar, Farag",
+        "role": "Institution",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 2,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab17",
+        "name": "Rushdi, Mostafa A.",
+        "role": "International",
+        "affiliation": "Kyushu University, Research Institute for Applied Mechanics",
+        "coAuthoredDocs": 3,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "JP",
+        "institutionLogo": "/assets/kyudai_logo.png"
+    },
+    {
+        "id": "collab19",
+        "name": "Aasim, Wan F. A.",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab20",
+        "name": "Al Zeyoudi, Salem",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab21",
+        "name": "Alaryani, Shamma",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab22",
+        "name": "Alblooshi, Nouf T.",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab23",
+        "name": "Alfalahi, Aysha",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab24",
+        "name": "Alghaithi, Maitha",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab25",
+        "name": "Ali, Badar",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 3,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab26",
+        "name": "Alkalbani, Sara",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab27",
+        "name": "Alkhatib, Osama",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab28",
+        "name": "Alnaimat, Fadi",
+        "role": "Institution",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab29",
+        "name": "Alneyadi, Maitha K.",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab30",
+        "name": "Alneyadi, Reed A.",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab31",
+        "name": "Alshamsi, Mariam",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab32",
+        "name": "Alshamsi, Shaima",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab33",
+        "name": "Alshehhi, Aamena",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab34",
+        "name": "Alteneiji, Moza",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab35",
+        "name": "Asifewe, Rehema",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab36",
+        "name": "Chai, John C.",
+        "role": "International",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab37",
+        "name": "ElSayed, Mostafa S.A.",
+        "role": "International",
+        "affiliation": "Carleton University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "CA",
+        "institutionLogo": "/assets/carlton_logo.png"
+    },
+    {
+        "id": "collab38",
+        "name": "Goharzadeh, Afshin",
+        "role": "Postgraduate Student",
+        "affiliation": "Khalifa University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/khalifa_logo.png"
+    },
+    {
+        "id": "collab39",
+        "name": "Hakim, Abdoalrahman",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab40",
+        "name": "Hanada, Kazuaki",
+        "role": "International",
+        "affiliation": "Kyushu University, Research Institute for Applied Mechanics",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "JP",
+        "institutionLogo": "/assets/kyudai_logo.png"
+    },
+    {
+        "id": "collab41",
+        "name": "Hemdoui, Imane",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab42",
+        "name": "Jin, Linwen",
+        "role": "International",
+        "affiliation": "School of Human Settlements and Civil Engineering, Xi'an Jiaotong University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "CN",
+        "institutionLogo": "/assets/xjtu_logo.png"
+    },
+    {
+        "id": "collab43",
+        "name": "Khader, Rashed",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab44",
+        "name": "Khasawneh, Adam",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab45",
+        "name": "Kumar, Swarna Mayuri",
+        "role": "International",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab46",
+        "name": "Li, Ruan",
+        "role": "International",
+        "affiliation": "Kyushu University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "JP",
+        "institutionLogo": "/assets/kyudai_logo.png"
+    },
+    {
+        "id": "collab47",
+        "name": "Mathew, Bobby",
+        "role": "Institution",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab48",
+        "name": "Mohammedhaddish, Abduselam",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab49",
+        "name": "Paul, Pritti",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab50",
+        "name": "Rodgers, Peter J.",
+        "role": "International",
+        "affiliation": "Khalifa University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/khalifa_logo.png"
+    },
+    {
+        "id": "collab51",
+        "name": "Salem, Abdulrahman E.",
+        "role": "Postgraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 2,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab52",
+        "name": "Shashati, Mahmoud",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab54",
+        "name": "Wang, Mingkai",
+        "role": "International",
+        "affiliation": "Beihang University",
+        "coAuthoredDocs": 3,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "CN",
+        "institutionLogo": "/assets/beihang_logo.png"
+    },
+    {
+        "id": "collab55",
+        "name": "Watanabe, Seiya",
+        "role": "International",
+        "affiliation": "Kyushu University, Research Institute for Applied Mechanics",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "JP",
+        "institutionLogo": "/assets/kyudai_logo.png"
+    },
+    {
+        "id": "collab56",
+        "name": "Yap, Yit Fatt",
+        "role": "International",
+        "affiliation": "Khalifa University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/khalifa_logo.png"
+    },
+    {
+        "id": "collab57",
+        "name": "Ramakrishnan, Revathi",
+        "role": "International",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 2,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab58",
+        "name": "Serag, Ahmed",
+        "role": "Undergraduate Student",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab59",
+        "name": "Seyam, Mohammed",
+        "role": "International",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab60",
+        "name": "Aly, Moataz",
+        "role": "Collaborator",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab61",
+        "name": "Alkhateri, Maryam Rashed",
+        "role": "Collaborator",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab62",
+        "name": "Najjar, Azm",
+        "role": "Collaborator",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab63",
+        "name": "Safouh, Mhd",
+        "role": "Collaborator",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab64",
+        "name": "Alsheebani, Mariam Eisa",
+        "role": "Collaborator",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab65",
+        "name": "Oland, Espen",
+        "role": "Collaborator",
+        "affiliation": "Kitemill",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "NO",
+        "institutionLogo": "/assets/kitemill_logo.png"
+    },
+    {
+        "id": "collab66",
+        "name": "Zapin, Roaa Emad Ahmad",
+        "role": "Collaborator",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab67",
+        "name": "Mekonnen, Fitsum Yebeka",
+        "role": "Collaborator",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab68",
+        "name": "Saad, Raneem",
+        "role": "Collaborator",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab69",
+        "name": "Bawab, Jad",
+        "role": "International",
+        "affiliation": "School of Construction and Built Environment, British Applied College",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": ""
+    },
+    {
+        "id": "collab70",
+        "name": "El-Hassan, Hilal",
+        "role": "Institution",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab71",
+        "name": "El-Mir, Abdulkader",
+        "role": "International",
+        "affiliation": "Department of Civil and Environmental Engineering, University of Balamand",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "LB",
+        "institutionLogo": ""
+    }
+]

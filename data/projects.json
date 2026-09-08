@@ -1,0 +1,260 @@
+[
+    {
+        "id": "proj1",
+        "title": "Interface-Capturing Schemes for Multiphase Flow Simulation",
+        "shortTitle": "Interface-Capturing Schemes",
+        "status": "ongoing",
+        "startDate": "2017-01-01",
+        "endDate": "2025-12-31",
+        "tags": [
+            "CFD",
+            "Multiphase Flow",
+            "Interface Capturing"
+        ],
+        "summary": "Developing accurate interface-capturing and interface-orientation methods for multiphase CFD solvers.",
+        "description": "This project focuses on numerical and data-driven schemes for representing sharp interfaces in multiphase-flow simulations. It connects VOF-based interface-orientation prediction, THINC-type reconstruction, and practical solver development for free-surface and interfacial flow problems.",
+        "relatedPublications": [
+            "p3",
+            "p50",
+            "p42"
+        ],
+        "relatedGrants": [
+            "grant5"
+        ],
+        "teamMembers": [
+            "collab1",
+            "collab2",
+            "collab10",
+            "collab17",
+            "collab51"
+        ],
+        "imageUrls": [],
+        "videoUrls": [
+            "https://youtu.be/F9nc-clPkw4"
+        ]
+    },
+    {
+        "id": "proj2",
+        "title": "Renewable Energy Systems: Airborne Wind, Tidal Turbines, and Energy Harvesting",
+        "shortTitle": "Renewable Energy Systems",
+        "status": "ongoing",
+        "startDate": "2021-01-01",
+        "endDate": "2027-12-31",
+        "tags": [
+            "Renewable Energy",
+            "Airborne Wind Energy"
+        ],
+        "summary": "Consolidating renewable-energy research across airborne wind systems, tidal turbines, bio-inspired rotors, and flow-induced harvesting.",
+        "description": "This project brings together renewable-energy work spanning airborne wind energy systems, tidal turbine simulations, bio-inspired wind and marine energy concepts, and flow-induced or piezoelectric energy harvesting. The work combines CFD, control, state estimation, structural analysis, and deployment-oriented system studies.",
+        "relatedPublications": [
+            "p1",
+            "p52",
+            "p17",
+            "p10",
+            "p48",
+            "p22",
+            "p27",
+            "p32",
+            "p8",
+            "p11",
+            "p25",
+            "p54"
+        ],
+        "relatedGrants": [
+            "grant6"
+        ],
+        "teamMembers": [
+            "collab1",
+            "collab2",
+            "collab5",
+            "collab10",
+            "collab14",
+            "collab65"
+        ],
+        "imageUrls": [],
+        "videoUrls": [
+            "https://youtu.be/Yyk0EAah7WU",
+            "https://youtu.be/Zt4xufDcsiM"
+        ]
+    },
+    {
+        "id": "proj3",
+        "title": "Blended Wing UAV Design for Sustainable Aviation",
+        "shortTitle": "Blended Wing UAV Design",
+        "status": "ongoing",
+        "startDate": "2023-01-01",
+        "endDate": "2025-12-31",
+        "tags": [
+            "UAV",
+            "Aerospace Design"
+        ],
+        "summary": "Designing and evaluating blended-wing unmanned aircraft for improved aerodynamic performance, stability, and control.",
+        "description": "This project develops sustainable UAV concepts based on blended-wing-body configurations. It combines design, fabrication, aerodynamic analysis, stability and control assessment, and performance tools to support improved long-endurance unmanned aircraft concepts.",
+        "relatedPublications": [
+            "p6",
+            "p7",
+            "p15"
+        ],
+        "relatedGrants": [
+            "grant4"
+        ],
+        "teamMembers": [
+            "collab1",
+            "collab3",
+            "collab45",
+            "collab19",
+            "collab30"
+        ],
+        "imageUrls": [],
+        "videoUrls": []
+    },
+    {
+        "id": "proj4",
+        "title": "Urban Air Mobility and eVTOL Performance Optimization",
+        "shortTitle": "Urban Air Mobility",
+        "status": "ongoing",
+        "startDate": "2024-01-01",
+        "endDate": "2026-12-31",
+        "tags": [
+            "UAV",
+            "Urban Air Mobility",
+            "Flight Control"
+        ],
+        "summary": "Optimizing eVTOL and quadplane aircraft concepts for urban air mobility, delivery, and climate-aware operation.",
+        "description": "This project addresses design and control challenges for electric vertical take-off and landing aircraft. It connects quadplane performance optimization, last-mile delivery concepts, real-flight-path tracking, and nonlinear model predictive control for rotorcraft and hybrid UAV platforms.",
+        "relatedPublications": [
+            "p47",
+            "p51",
+            "p9",
+            "p20"
+        ],
+        "relatedGrants": [
+            "grant3"
+        ],
+        "teamMembers": [
+            "collab1",
+            "collab4",
+            "collab5",
+            "collab14",
+            "collab54"
+        ],
+        "imageUrls": [],
+        "videoUrls": []
+    },
+    {
+        "id": "proj5",
+        "title": "Wave Impact, Sloshing, and Free-Surface Flow Simulation",
+        "shortTitle": "Wave Impact and Sloshing",
+        "status": "completed",
+        "startDate": "2017-01-01",
+        "endDate": "2025-12-31",
+        "tags": [
+            "CFD",
+            "Multiphase Flow"
+        ],
+        "summary": "Investigating violent free-surface flows, sloshing impacts, and dam-break interactions through simulation and experiment.",
+        "description": "This project brings together work on sloshing mitigation, dam-break impact, unstructured mesh solvers, THINC/UMTHINC interface capturing, and experimental validation of violent free-surface flow problems. The research supports safer marine, offshore, and tank-design applications.",
+        "relatedPublications": [
+            "p2",
+            "p28",
+            "p33",
+            "p36",
+            "p37",
+            "p38",
+            "p44",
+            "p45",
+            "p55",
+            "p56"
+        ],
+        "relatedGrants": [
+            "grant5"
+        ],
+        "teamMembers": [
+            "collab2",
+            "collab6",
+            "collab10",
+            "collab40",
+            "collab55"
+        ],
+        "imageUrls": [],
+        "videoUrls": [
+            "https://youtu.be/WJu13vWRwHM",
+            "https://youtu.be/yflMJXRl2Xo",
+            "https://youtu.be/iL19B7kA7O4",
+            "https://youtu.be/4sSc6GVD-Uw",
+            "https://youtu.be/kUzSEBn1TEE",
+            "https://youtu.be/Q63hHaW5JN0"
+        ]
+    },
+    {
+        "id": "proj6",
+        "title": "High-Order Methods for Multiphase Flow Simulation",
+        "shortTitle": "High-Order Multiphase Methods",
+        "status": "completed",
+        "startDate": "2020-01-01",
+        "tags": [
+            "CFD",
+            "High-Order Methods",
+            "Multiphase Flow"
+        ],
+        "summary": "Applying high-order flux-reconstruction methods to multiphase-flow and interface-tracking problems.",
+        "description": "This project focuses on high-order numerical methods for multiphase flows, including flux reconstruction, phase-field preconditioning, and PyFR-based solver development. The demonstrations highlight Rayleigh-Taylor instability and bubble-rise simulations using high-order multiphase formulations.",
+        "relatedPublications": [
+            "p29",
+            "p31",
+            "p35",
+            "p57"
+        ],
+        "relatedGrants": [
+            "grant5"
+        ],
+        "teamMembers": [
+            "collab2",
+            "collab10",
+            "collab55"
+        ],
+        "imageUrls": [],
+        "videoUrls": [
+            "https://youtu.be/uHA0VWwFtbU",
+            "https://youtu.be/x86NMg_iRsc"
+        ],
+        "endDate": "2021-12-31"
+    },
+    {
+        "id": "proj7",
+        "title": "Autonomous UAV Systems for Emergency and Remote Operations",
+        "shortTitle": "Autonomous UAV Systems",
+        "status": "ongoing",
+        "startDate": "2024-01-01",
+        "endDate": "2026-12-31",
+        "tags": [
+            "UAV",
+            "Flight Control"
+        ],
+        "summary": "Developing autonomous UAV platforms and control workflows for emergency response, mapping, agriculture, and remote-area operation.",
+        "description": "This project focuses on UAV system integration, autonomous control, and mission-oriented deployment. It connects modular UAV development, drone-based data collection, robotic-arm emergency applications, and human-interface concepts for instrumented-glove flight control.",
+        "relatedPublications": [
+            "p5",
+            "p49",
+            "p16",
+            "p21",
+            "p23"
+        ],
+        "relatedGrants": [
+            "grant2",
+            "grant4",
+            "grant7"
+        ],
+        "teamMembers": [
+            "collab1",
+            "collab3",
+            "collab5",
+            "collab58",
+            "collab59",
+            "collab62",
+            "collab63"
+        ],
+        "imageUrls": [],
+        "videoUrls": []
+    }
+]
