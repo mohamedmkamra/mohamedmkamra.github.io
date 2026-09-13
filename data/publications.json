@@ -258,6 +258,48 @@
         "thumbnailFit": "contain"
     },
     {
+        "id": "p58",
+        "title": "Systematic Review on AI-Powered UAVs: The Role of Artificial Intelligence in UAV Evolution and Applications Expansion",
+        "authors": [
+            "Aziz, Binz A.",
+            "Rushdi, Mostafa A.",
+            "Yoshida, Shigeo",
+            "Dief, Tarek N.",
+            "Shaban, Ibrahim Abdelfadeel",
+            "Kamra, Mohamed M."
+        ],
+        "year": 2026,
+        "venue": "Applied Sciences",
+        "type": "journal",
+        "doi": "10.3390/app16178774",
+        "url": "https://www.mdpi.com/2076-3417/16/17/8774",
+        "pdfUrl": "https://www.mdpi.com/2076-3417/16/17/8774/pdf",
+        "codeUrl": "",
+        "keywords": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Unmanned Aerial Vehicles",
+            "Swarm Intelligence",
+            "Quantum Computing",
+            "Edge Computing",
+            "Autonomy",
+            "Large Language Models"
+        ],
+        "citations": 0,
+        "citationsPerYear": [],
+        "isHighlighted": false,
+        "volume": "16",
+        "issue": "17",
+        "articleNumber": "8774",
+        "receivedDate": "2026-07-21",
+        "revisedDate": "2026-08-16",
+        "acceptedDate": "2026-08-19",
+        "publishedDate": "2026-09-03",
+        "abstract": "Unmanned aerial vehicles (UAVs) are progressively evolving from remotely operated platforms into intelligent autonomous systems. This research addresses the role of Artificial Intelligence (AI) in advancing UAV capabilities and expanding their applications across diverse sectors. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 methodology, studies retrieved from Scopus and relevant academic books and book chapters were screened, resulting in 217 publications retained for final analysis. The analysis introduces a three-layer framework linking AI techniques, UAV functional capabilities, and application domains. The first layer covers the list of adopted AI and ML approaches in the UAV applications. The second layer maps these approaches to key UAV capabilities, including perception, autonomous navigation, control and stability, swarm coordination, communication, and energy optimization. The third layer examines applications in agriculture, logistics, disaster response, environmental monitoring, surveillance, defense, and wireless network systems. The findings show that deep learning enhances aerial perception, reinforcement learning supports adaptive navigation and control, federated learning improves distributed intelligence, and swarm intelligence enables cooperative multi-UAV missions. Despite these advances, AI-enabled UAVs still face challenges related to energy consumption, onboard computation, data availability, communication reliability, safety, ethics, privacy, and regulation. Future progress is expected to be driven by edge AI, Tiny Machine Learning (TinyML), quantum-inspired optimization, explainable artificial intelligence (XAI), human-AI collaboration, and robust swarm coordination. Overall, this review provides a structured synthesis of AI-enabled UAV research and identifies key directions for future innovation.",
+        "thumbnail": "/assets/publications/venue-thumbnails/applied-sciences.svg",
+        "thumbnailFit": "contain"
+    },
+    {
         "id": "p1",
         "title": "From inception to commercialization: A systematic review of airborne wind energy systems",
         "authors": [

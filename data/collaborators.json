@@ -4,7 +4,7 @@
         "name": "Dief, Tarek N.",
         "role": "Institution",
         "affiliation": "United Arab Emirates University",
-        "coAuthoredDocs": 20,
+        "coAuthoredDocs": 21,
         "tags": [
             "Research",
             "Collaboration"
@@ -139,7 +139,7 @@
         "name": "Yoshida, Shigeo",
         "role": "International",
         "affiliation": "Kyushu University, Research Institute for Applied Mechanics",
-        "coAuthoredDocs": 4,
+        "coAuthoredDocs": 5,
         "tags": [
             "Research",
             "Collaboration"
@@ -244,7 +244,7 @@
         "name": "Rushdi, Mostafa A.",
         "role": "International",
         "affiliation": "Kyushu University, Research Institute for Applied Mechanics",
-        "coAuthoredDocs": 3,
+        "coAuthoredDocs": 4,
         "tags": [
             "Research",
             "Collaboration"
@@ -1033,5 +1033,35 @@
         "endDate": null,
         "countryCode": "LB",
         "institutionLogo": ""
+    },
+    {
+        "id": "collab72",
+        "name": "Aziz, Binz A.",
+        "role": "Institution",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
+    },
+    {
+        "id": "collab73",
+        "name": "Shaban, Ibrahim Abdelfadeel",
+        "role": "Institution",
+        "affiliation": "United Arab Emirates University",
+        "coAuthoredDocs": 1,
+        "tags": [
+            "Research",
+            "Collaboration"
+        ],
+        "avatarUrl": "",
+        "endDate": null,
+        "countryCode": "AE",
+        "institutionLogo": "/assets/uaeu_logo.png"
     }
 ]
