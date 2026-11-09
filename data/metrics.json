@@ -1,6 +1,6 @@
 {
     "source": "Scopus export merged with local publication records",
-    "lastUpdated": "2026-09-13",
+    "lastUpdated": "2026-11-09",
     "publicationsPerYear": [
         {
             "year": 2016,
@@ -68,7 +68,7 @@
     "citationsByType": [
         {
             "type": "Journal",
-            "count": 259
+            "count": 282
         },
         {
             "type": "Conference",
@@ -127,7 +127,7 @@
         },
         {
             "publicationId": "p20",
-            "citations": 36
+            "citations": 38
         },
         {
             "publicationId": "p38",
@@ -135,7 +135,7 @@
         },
         {
             "publicationId": "p4",
-            "citations": 16
+            "citations": 18
         },
         {
             "publicationId": "p43",
