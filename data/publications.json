@@ -1,5 +1,35 @@
 [
     {
+        "id": "p59",
+        "title": "Robust Trajectory Tracking of a Flying-Wing UAV: A Comparative Evaluation of Optimized Smooth Sliding Mode, PID, and MPC Controllers",
+        "authors": [
+            "Kamra, Mohamed M.",
+            "Ali, Badar",
+            "Devaraj, Tintu B.",
+            "Elhesasy, Mohamed",
+            "Dief, Tarek N."
+        ],
+        "year": 2026,
+        "venue": "Drones",
+        "type": "journal",
+        "doi": "10.3390/drones10110819",
+        "url": "https://www.mdpi.com/2504-446X/10/11/819",
+        "pdfUrl": "",
+        "codeUrl": "",
+        "keywords": [
+            "flying-wing UAV",
+            "trajectory tracking",
+            "smooth sliding mode control",
+            "model predictive control",
+            "PID control",
+            "Monte Carlo analysis"
+        ],
+        "isHighlighted": false,
+        "thumbnail": "/assets/publications/official/drones-logo.png",
+        "thumbnailFit": "contain",
+        "summary": "This study compares optimized smooth sliding mode control (SSMC), cascaded PID control, and model predictive control (MPC) for trajectory tracking of a Skywalker X8 flying-wing UAV. Evaluation uses a nonlinear six-degree-of-freedom model under nominal conditions, stochastic wind, and sensor noise, supplemented by Monte Carlo and disturbance-scaling analyses. MPC achieves the best tracking precision and lowest actuator effort under nominal and wind-disturbed conditions, while SSMC performs best under sensor noise and consistently improves on optimized PID. PID and SSMC also tolerate greater wind amplification than MPC within the simulated horizon. The results identify SSMC as a useful balance between tracking accuracy, actuator demand, and disturbance robustness."
+    },
+    {
         "id": "p10",
         "title": "Harnessing Energy and Engineering: A Review of Design Transition of Bio-Inspired and Conventional Blade Concepts for Wind and Marine Energy Harvesting",
         "authors": [

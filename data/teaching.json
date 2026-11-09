@@ -150,19 +150,17 @@
   "mentoring": [
     {
       "id": "m1",
-      "studentName": "Emily Williams",
-      "level": "PhD",
-      "topic": "Reinforcement Learning in Dynamic Environments",
-      "period": "2022 - Present",
-      "status": "ongoing"
+      "studentName": "Abdulrahman Salem",
+      "level": "MSc",
+      "period": "2024 - 2026",
+      "status": "completed"
     },
     {
       "id": "m2",
-      "studentName": "David Smith",
-      "level": "MSc",
-      "topic": "Computer Vision for Agricultural Robotics",
-      "period": "2023 - 2024",
-      "status": "completed"
+      "studentName": "Binz Shiyas",
+      "level": "PhD",
+      "period": "2024 - Present",
+      "status": "ongoing"
     }
   ],
   "exhibitions": [
