@@ -1,0 +1,34 @@
+[
+  {
+    "id": "flight-mechanics-studio",
+    "name": "Flight Mechanics Studio",
+    "group": "learning",
+    "category": "Interactive learning",
+    "audience": "For students & instructors",
+    "description": "Connect aircraft design choices with flight behaviour. An interactive workspace for exploring how geometry, operating conditions, and aircraft parameters shape performance, stability, and trim.",
+    "features": [
+      "Explore performance curves and flight conditions",
+      "Compare aircraft and investigate design trade-offs",
+      "Work through guided learning activities"
+    ],
+    "url": "https://mohamedmkamra.github.io/flight-mech-studio/",
+    "repositoryUrl": "https://github.com/mohamedmkamra/flight-mech-studio",
+    "preview": "flight"
+  },
+  {
+    "id": "course-portfolio-builder",
+    "name": "Course Portfolio Builder",
+    "group": "teaching-workflows",
+    "category": "Teaching workflow",
+    "audience": "For instructors & course coordinators",
+    "description": "Bring a semester's teaching materials together in one organized course portfolio. Collect lecture notes, assessment instruments, graded student samples, and reports in a structure you can adapt to your course or institution.",
+    "features": [
+      "Customize and reuse course folder templates",
+      "Review missing items before completing a portfolio",
+      "Export a ZIP with a spreadsheet manifest"
+    ],
+    "url": "https://mohamedmkamra.github.io/course-portfolio-builder/",
+    "repositoryUrl": "https://github.com/mohamedmkamra/course-portfolio-builder",
+    "preview": "portfolio"
+  }
+]
